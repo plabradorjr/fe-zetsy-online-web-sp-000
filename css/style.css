@@ -22,8 +22,6 @@ body {
 
 /* Write all remaining styles here */
 
-
-img {
-  border: 5px;
-  color: black;
+h1 {
+  padding-bottom: : 10px;
 }
