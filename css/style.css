@@ -66,4 +66,5 @@ header a:hover {
 
 #featured a:hover {
 	text-decoration: underline;
+  color: pink;
 }
