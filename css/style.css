@@ -54,3 +54,7 @@ header a {
 header a:hover {
   color: pink;
 }
+
+#feature img {
+  border: 5px rgb(152,173,166) solid;
+}
