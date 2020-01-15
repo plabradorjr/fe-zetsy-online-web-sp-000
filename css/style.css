@@ -46,7 +46,7 @@ p  {
   font-size: 0.8em;
 }
 
-header {
+a[href="#"] {
   color: rgb(111,127,122);
   text-decoration: none;
 }
