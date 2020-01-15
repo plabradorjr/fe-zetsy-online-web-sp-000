@@ -46,7 +46,7 @@ p  {
   font-size: 0.8em;
 }
 
-header + h1 {
+header ~ h1 {
   color: rgb(111,127,122);
   text-decoration: none;
 }
